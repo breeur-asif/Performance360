@@ -1,0 +1,238 @@
+.Segment
+{
+  background: aliceblue;
+  border-radius: 8px;
+  color: white;
+ 
+}
+.home{
+  padding-left:40px;
+}
+.home1{
+  padding-left:40px;
+}
+#img1{
+  border:10px solid white;
+  border-radius:30px 30px;
+}
+p{
+  font-size: 27px;
+  color:#0e4958;
+  line-height:"1.5em";
+}
+#b1{
+  background-color: #0e4958;
+  border-radius: 30px 30px;;
+}
+#b2{
+  background-color: white;
+  color:darkblue;
+  border-radius: 30px 30px;
+  border:2px solid #0e4958;
+  
+}
+#pic1{
+  background-color: #0e4958;
+  padding:30px;
+ 
+}
+#text1{
+  color:white;
+  padding:30px;
+ 
+}
+#img2{
+  width:100%; 
+  height:100%; 
+}
+#div1{
+  margin-left: inherit;
+}
+#h5{
+  color:#0e4958;
+  font-size: 27px;
+  text-align: center;
+  
+}
+#ct1{
+  font-size: medium;
+  color:black;
+}
+#cb1{
+  background-color: darkblue;
+  color:white;
+}
+.div1{
+  padding: 0px;
+}
+#works{
+  padding: 100px;
+  background-color: white;
+}
+.carddiv{
+  border:2px solid whitesmoke;
+  margin: 45px;
+
+}
+.carddiv1{
+  border:2px solid #f5f5f5;
+  margin: 45px;
+}
+#chat{
+  vertical-align: right;
+  display:inline-block;
+  text-align: right;
+}
+.chatdiv{
+  padding:100px;
+  background-color:skyblue;
+}
+#chath3{
+ 
+  color:#0e4958;
+
+}
+.divbtn{
+  margin: 24px;
+  display: inline-block;
+
+}
+.subform{
+  background: #0e4958;
+    padding-top: 60px;
+    padding-left: 60px;
+    padding-bottom: 60px;
+    padding-right: 60px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.signup{
+  background-color:#4d8a7c;
+  padding: 50px;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.subform_input{
+  background: #e3e6ec;
+    padding-top: 12px;
+    color: #0e4958;
+    padding-left: 12px;
+    padding-bottom: 12px;
+    padding-right: 12px;
+    border-radius: 4px;
+    line-height: 18px;
+    font-size: 16px;
+    font-family: Arial;
+    text-align: left;
+    border: 0;
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+}
+.maincard{
+  padding:"40px";
+  background-color: white;
+}
+.lastdiv{
+  padding: 30px;
+}
+#clin{
+text-align: center;
+padding-top: 10px;
+padding-bottom: 20px;
+
+}
+#p1{
+  margin-top: 0;
+    margin-bottom: .9rem;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1.6em;
+    color:black;
+}
+#p{
+  font-family: "Open Sans", Sans-serif;
+  font-size: 1.1em;
+  font-weight: 300;
+  line-height: 1.6em;
+  color:black;
+}
+.align{
+  text-align: left;
+}
+.healthdiv{
+  text-align: center;
+  padding:80px;
+  font-family: "Open Sans", Sans-serif;
+  font-size: 1.1em;
+  font-weight: 300;
+  line-height: 1.6em;
+  color:black;
+  background-color: rgba(77,138,124,0.23);
+}
+/* Container holding the image and the text */
+.container1 {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  transform: translate(-50%, -50%);
+  top: 40%;
+  left: 35%;
+  font-size:35px;
+}
+.learndiv{
+  padding:40px;
+  padding-left: 150px;
+  padding-right: 150px;
+  color: #727982;
+    font-size: 20px;
+    line-height: 1.8em;
+    letter-spacing: 0px;
+    text-align: justify;
+}
+
+
+#learnh2{
+  color: #0e4958;
+
+  text-align: center;
+font-weight: bolder;
+}
+.formPatient{
+text-align: center;
+padding:25px;
+
+}
+.formh2{
+  color: #0e4958;
+
+}
+.forminput{
+  padding:10px;
+}
+.clinborder{
+  margin: 0% 10% ;
+  padding: 2em 2em 2em 2em;
+  background-color: #0e4958;
+  border-radius: 6px 6px 6px 6px;
+}
+.elementor-testimonial-details{
+  text-align: left;
+  color:white;
+  font-weight: bolder;
+}

@@ -1,0 +1,18 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+    <h1>Background Color Changer Example</h1>
+    <button onclick="myFunc()">Click me</button>
+    <script>
+        function myFunc() {
+            var bgcolor = new Array("blue", "green", "brown", "purple", "orange", "pink", "aliceblue", "magento");
+            document.body.style.background = bgcolor[Math.floor(Math.random() * bgcolor.length)]
+        }
+    </script>
+</body>
+
+</html>
